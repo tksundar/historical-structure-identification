@@ -1,6 +1,6 @@
 import os
 import cv2
-
+# test for corrupt files
 def is_jpeg_corrupt(file_path):
     try:
         img = cv2.imread(file_path)
@@ -11,7 +11,7 @@ def is_jpeg_corrupt(file_path):
         print(e)
     return True
 
-
+# remove bad files
 def remove_bad_files(bad_files,name):
     print(f'Removing bad files in folder {name}\n')
     try:
@@ -20,7 +20,7 @@ def remove_bad_files(bad_files,name):
           os.remove(fp)
     except Exception as e:
         print(f"Error removing files: {e}")
-
+# find bad files
 def find_bad_files(directory,name):
   print(f'Finding non-image files and wrongly encoded files in folder {name}\n')
   bad_files = list()
