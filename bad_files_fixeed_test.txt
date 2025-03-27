@@ -1,0 +1,56 @@
+C:\Users\tksra\DEV\file_rename\.venv\Scripts\python.exe C:\Users\tksra\DEV\file_rename\rename.py 
+removing apostrophe from folder Dataset_test_original_1478
+
+processing  C:\Users\tksra\OneDrive\Desktop\AIML\Capstone\Capstone 2\Part 1\dataset_hist_structures_2\dataset_hist_structures\Dataset_test\Dataset_test_original_1478\altar
+processing  C:\Users\tksra\OneDrive\Desktop\AIML\Capstone\Capstone 2\Part 1\dataset_hist_structures_2\dataset_hist_structures\Dataset_test\Dataset_test_original_1478\apse
+processing  C:\Users\tksra\OneDrive\Desktop\AIML\Capstone\Capstone 2\Part 1\dataset_hist_structures_2\dataset_hist_structures\Dataset_test\Dataset_test_original_1478\bell_tower
+processing  C:\Users\tksra\OneDrive\Desktop\AIML\Capstone\Capstone 2\Part 1\dataset_hist_structures_2\dataset_hist_structures\Dataset_test\Dataset_test_original_1478\column
+processing  C:\Users\tksra\OneDrive\Desktop\AIML\Capstone\Capstone 2\Part 1\dataset_hist_structures_2\dataset_hist_structures\Dataset_test\Dataset_test_original_1478\dome(inner)
+processing  C:\Users\tksra\OneDrive\Desktop\AIML\Capstone\Capstone 2\Part 1\dataset_hist_structures_2\dataset_hist_structures\Dataset_test\Dataset_test_original_1478\dome(outer)
+processing  C:\Users\tksra\OneDrive\Desktop\AIML\Capstone\Capstone 2\Part 1\dataset_hist_structures_2\dataset_hist_structures\Dataset_test\Dataset_test_original_1478\flying_buttress
+processing  C:\Users\tksra\OneDrive\Desktop\AIML\Capstone\Capstone 2\Part 1\dataset_hist_structures_2\dataset_hist_structures\Dataset_test\Dataset_test_original_1478\gargoyle
+processing  C:\Users\tksra\OneDrive\Desktop\AIML\Capstone\Capstone 2\Part 1\dataset_hist_structures_2\dataset_hist_structures\Dataset_test\Dataset_test_original_1478\stained_glass
+old file C:\Users\tksra\OneDrive\Desktop\AIML\Capstone\Capstone 2\Part 1\dataset_hist_structures_2\dataset_hist_structures\Dataset_test\Dataset_test_original_1478\stained_glass\Biarritz-glise_Sainte_Eugnie-La_Cne_d'Emmas-20120413.jpg
+new file C:\Users\tksra\OneDrive\Desktop\AIML\Capstone\Capstone 2\Part 1\dataset_hist_structures_2\dataset_hist_structures\Dataset_test\Dataset_test_original_1478\stained_glass\Biarritz-glise_Sainte_Eugnie-La_Cne_dEmmas-20120413.jpg
+old file C:\Users\tksra\OneDrive\Desktop\AIML\Capstone\Capstone 2\Part 1\dataset_hist_structures_2\dataset_hist_structures\Dataset_test\Dataset_test_original_1478\stained_glass\St_Matthew's_Church_-_Paisley_-_Stained_Glass_Window.jpg
+new file C:\Users\tksra\OneDrive\Desktop\AIML\Capstone\Capstone 2\Part 1\dataset_hist_structures_2\dataset_hist_structures\Dataset_test\Dataset_test_original_1478\stained_glass\St_Matthews_Church_-_Paisley_-_Stained_Glass_Window.jpg
+processing  C:\Users\tksra\OneDrive\Desktop\AIML\Capstone\Capstone 2\Part 1\dataset_hist_structures_2\dataset_hist_structures\Dataset_test\Dataset_test_original_1478\vault
+Finding non-image files and wrongly encoded files in folder Dataset_test_original_1478
+
+processing  C:\Users\tksra\OneDrive\Desktop\AIML\Capstone\Capstone 2\Part 1\dataset_hist_structures_2\dataset_hist_structures\Dataset_test\Dataset_test_original_1478\altar.   number of images 140
+processing  C:\Users\tksra\OneDrive\Desktop\AIML\Capstone\Capstone 2\Part 1\dataset_hist_structures_2\dataset_hist_structures\Dataset_test\Dataset_test_original_1478\apse.   number of images 57
+processing  C:\Users\tksra\OneDrive\Desktop\AIML\Capstone\Capstone 2\Part 1\dataset_hist_structures_2\dataset_hist_structures\Dataset_test\Dataset_test_original_1478\bell_tower.   number of images 171
+processing  C:\Users\tksra\OneDrive\Desktop\AIML\Capstone\Capstone 2\Part 1\dataset_hist_structures_2\dataset_hist_structures\Dataset_test\Dataset_test_original_1478\column.   number of images 210
+processing  C:\Users\tksra\OneDrive\Desktop\AIML\Capstone\Capstone 2\Part 1\dataset_hist_structures_2\dataset_hist_structures\Dataset_test\Dataset_test_original_1478\dome(inner).   number of images 86
+processing  C:\Users\tksra\OneDrive\Desktop\AIML\Capstone\Capstone 2\Part 1\dataset_hist_structures_2\dataset_hist_structures\Dataset_test\Dataset_test_original_1478\dome(outer).   number of images 168
+processing  C:\Users\tksra\OneDrive\Desktop\AIML\Capstone\Capstone 2\Part 1\dataset_hist_structures_2\dataset_hist_structures\Dataset_test\Dataset_test_original_1478\flying_buttress.   number of images 78
+processing  C:\Users\tksra\OneDrive\Desktop\AIML\Capstone\Capstone 2\Part 1\dataset_hist_structures_2\dataset_hist_structures\Dataset_test\Dataset_test_original_1478\gargoyle.   number of images 240
+processing  C:\Users\tksra\OneDrive\Desktop\AIML\Capstone\Capstone 2\Part 1\dataset_hist_structures_2\dataset_hist_structures\Dataset_test\Dataset_test_original_1478\stained_glass.   number of images 164
+Premature end of JPEG file
+Premature end of JPEG file
+[ WARN:0@12.855] global loadsave.cpp:268 cv::findDecoder imread_('C:\Users\tksra\OneDrive\Desktop\AIML\Capstone\Capstone 2\Part 1\dataset_hist_structures_2\dataset_hist_structures\Dataset_test\Dataset_test_original_1478\stained_glass\Biarritz-glise_Sainte_Eugnie-La_Cne_dEmmas-20120413.jpg'): can't open/read file: check file path/integrity
+[ WARN:0@13.176] global loadsave.cpp:268 cv::findDecoder imread_('C:\Users\tksra\OneDrive\Desktop\AIML\Capstone\Capstone 2\Part 1\dataset_hist_structures_2\dataset_hist_structures\Dataset_test\Dataset_test_original_1478\stained_glass\Glim†kra_kyrka-8.jpg'): can't open/read file: check file path/integrity
+[ WARN:0@13.177] global loadsave.cpp:268 cv::findDecoder imread_('C:\Users\tksra\OneDrive\Desktop\AIML\Capstone\Capstone 2\Part 1\dataset_hist_structures_2\dataset_hist_structures\Dataset_test\Dataset_test_original_1478\stained_glass\Holbein-stained-glass-Eichst則t.jpg'): can't open/read file: check file path/integrity
+[ WARN:0@13.945] global loadsave.cpp:268 cv::findDecoder imread_('C:\Users\tksra\OneDrive\Desktop\AIML\Capstone\Capstone 2\Part 1\dataset_hist_structures_2\dataset_hist_structures\Dataset_test\Dataset_test_original_1478\stained_glass\Vitraux_de_la_basilique_Notre-Dame,_Gen革e_23.jpg'): can't open/read file: check file path/integrity
+[ WARN:0@13.945] global loadsave.cpp:268 cv::findDecoder imread_('C:\Users\tksra\OneDrive\Desktop\AIML\Capstone\Capstone 2\Part 1\dataset_hist_structures_2\dataset_hist_structures\Dataset_test\Dataset_test_original_1478\stained_glass\身lise_du_Sablon_-_Brussels_-_Stained_glass_(02)_-_2043-0007-0.jpg'): can't open/read file: check file path/integrity
+[ WARN:0@13.945] global loadsave.cpp:268 cv::findDecoder imread_('C:\Users\tksra\OneDrive\Desktop\AIML\Capstone\Capstone 2\Part 1\dataset_hist_structures_2\dataset_hist_structures\Dataset_test\Dataset_test_original_1478\stained_glass\身lise_du_Sablon_-_Brussels_-_Stained_glass_(03)_-_2043-0007-0.jpg'): can't open/read file: check file path/integrity
+[ WARN:0@13.945] global loadsave.cpp:268 cv::findDecoder imread_('C:\Users\tksra\OneDrive\Desktop\AIML\Capstone\Capstone 2\Part 1\dataset_hist_structures_2\dataset_hist_structures\Dataset_test\Dataset_test_original_1478\stained_glass\身lise_du_Sablon_-_Brussels_-_Stained_glass_(05)_-_2043-0007-0.jpg'): can't open/read file: check file path/integrity
+[ WARN:0@13.946] global loadsave.cpp:268 cv::findDecoder imread_('C:\Users\tksra\OneDrive\Desktop\AIML\Capstone\Capstone 2\Part 1\dataset_hist_structures_2\dataset_hist_structures\Dataset_test\Dataset_test_original_1478\stained_glass\身lise_du_Sablon_-_Brussels_-_Stained_glass_(08)_-_2043-0007-0.jpg'): can't open/read file: check file path/integrity
+processing  C:\Users\tksra\OneDrive\Desktop\AIML\Capstone\Capstone 2\Part 1\dataset_hist_structures_2\dataset_hist_structures\Dataset_test\Dataset_test_original_1478\vault.   number of images 164
+
+10 Bad files found in folder C:\Users\tksra\OneDrive\Desktop\AIML\Capstone\Capstone 2\Part 1\dataset_hist_structures_2\dataset_hist_structures\Dataset_test\Dataset_test_original_1478 
+
+Removing bad files in folder Dataset_test_original_1478
+
+Removing bad file C:\Users\tksra\OneDrive\Desktop\AIML\Capstone\Capstone 2\Part 1\dataset_hist_structures_2\dataset_hist_structures\Dataset_test\Dataset_test_original_1478\bell_tower\ren_tmp_jpg.bat
+Removing bad file C:\Users\tksra\OneDrive\Desktop\AIML\Capstone\Capstone 2\Part 1\dataset_hist_structures_2\dataset_hist_structures\Dataset_test\Dataset_test_original_1478\stained_glass\9d1de848-bfd8-40e1-9686-0f8aba896655.jpg
+Removing bad file C:\Users\tksra\OneDrive\Desktop\AIML\Capstone\Capstone 2\Part 1\dataset_hist_structures_2\dataset_hist_structures\Dataset_test\Dataset_test_original_1478\stained_glass\Biarritz-glise_Sainte_Eugnie-La_Cne_dEmmas-20120413.jpg
+Removing bad file C:\Users\tksra\OneDrive\Desktop\AIML\Capstone\Capstone 2\Part 1\dataset_hist_structures_2\dataset_hist_structures\Dataset_test\Dataset_test_original_1478\stained_glass\Glim†kra_kyrka-8.jpg
+Removing bad file C:\Users\tksra\OneDrive\Desktop\AIML\Capstone\Capstone 2\Part 1\dataset_hist_structures_2\dataset_hist_structures\Dataset_test\Dataset_test_original_1478\stained_glass\Holbein-stained-glass-Eichst則t.jpg
+Removing bad file C:\Users\tksra\OneDrive\Desktop\AIML\Capstone\Capstone 2\Part 1\dataset_hist_structures_2\dataset_hist_structures\Dataset_test\Dataset_test_original_1478\stained_glass\Vitraux_de_la_basilique_Notre-Dame,_Gen革e_23.jpg
+Removing bad file C:\Users\tksra\OneDrive\Desktop\AIML\Capstone\Capstone 2\Part 1\dataset_hist_structures_2\dataset_hist_structures\Dataset_test\Dataset_test_original_1478\stained_glass\身lise_du_Sablon_-_Brussels_-_Stained_glass_(02)_-_2043-0007-0.jpg
+Removing bad file C:\Users\tksra\OneDrive\Desktop\AIML\Capstone\Capstone 2\Part 1\dataset_hist_structures_2\dataset_hist_structures\Dataset_test\Dataset_test_original_1478\stained_glass\身lise_du_Sablon_-_Brussels_-_Stained_glass_(03)_-_2043-0007-0.jpg
+Removing bad file C:\Users\tksra\OneDrive\Desktop\AIML\Capstone\Capstone 2\Part 1\dataset_hist_structures_2\dataset_hist_structures\Dataset_test\Dataset_test_original_1478\stained_glass\身lise_du_Sablon_-_Brussels_-_Stained_glass_(05)_-_2043-0007-0.jpg
+Removing bad file C:\Users\tksra\OneDrive\Desktop\AIML\Capstone\Capstone 2\Part 1\dataset_hist_structures_2\dataset_hist_structures\Dataset_test\Dataset_test_original_1478\stained_glass\身lise_du_Sablon_-_Brussels_-_Stained_glass_(08)_-_2043-0007-0.jpg
+
+Process finished with exit code 0
