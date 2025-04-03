@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1333b77b-63fc-4810-8345-fceda352a1e9" name="Changes" comment="initial draft">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fix_bad_files.py" beforeDir="false" afterPath="$PROJECT_DIR$/fix_bad_files.py" afterDir="false" />
+    <list default="true" id="1333b77b-63fc-4810-8345-fceda352a1e9" name="Changes" comment="added new files">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/capstone2.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,11 +74,29 @@
       <option name="project" value="LOCAL" />
       <updated>1743049115687</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="refactored">
+      <option name="closed" value="true" />
+      <created>1743050129917</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1743050129918</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added new files">
+      <option name="closed" value="true" />
+      <created>1743050320387</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1743050320387</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial draft" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial draft" />
+    <MESSAGE value="refactored" />
+    <MESSAGE value="added new files" />
+    <option name="LAST_COMMIT_MESSAGE" value="added new files" />
   </component>
 </project>
